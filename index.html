@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Weather App</title>
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.29.4/moment.min.js"></script>
+</head>
+<body>
+  <div class="container">
+    <div class="weather-card">
+      <h1>🌤️ Weather App</h1>
+      <input type="text" id="city-input" placeholder="Enter city name" />
+      <button id="city-input-btn">Get Weather</button>
+      <div id="weather-info">
+        <h2 id="city-name"></h2>
+        <p id="date"></p>
+        <img id="weather-icon" src="" alt="Weather Icon" />
+        <div id="temperature"></div>
+        <div id="description"></div>
+        <div id="wind-speed"></div>
+      </div>
+    </div>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
+
