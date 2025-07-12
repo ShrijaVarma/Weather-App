@@ -1,3 +1,3 @@
-#  🌤️ Weather
+#  🌤️ Weather App
 
 
