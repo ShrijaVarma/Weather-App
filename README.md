@@ -3,3 +3,4 @@ A **simple**, **stylish**, and **responsive** weather application built using **
 ---
 ## 🚀 Features
 - 🔍 Search weather by **city name**
+- 📍 Displays:
