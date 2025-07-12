@@ -1,4 +1,4 @@
 #  🌤️ Weather App
-A **simple**, **stylish**, and **responsive** weather application built
+A **simple**, **stylish**, and **responsive** weather application built using
 
 
