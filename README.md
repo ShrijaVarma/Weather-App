@@ -6,3 +6,4 @@ A **simple**, **stylish**, and **responsive** weather application built using **
 - 📍 Displays:
 - City Name
 - Current Date & Time
+- Temperature (°C)
