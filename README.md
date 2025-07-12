@@ -1,4 +1,4 @@
 #  🌤️ Weather App
-A **simple**
+A **simple**, **stylish**, and **responsive**
 
 
