@@ -6,5 +6,5 @@ A **simple**, **stylish**, and **responsive** weather application built using **
 - 🔍 Search weather by **city name**
 - 📍 Displays:
 - City Name
-- Current  Date & Time
+- Current Date & Time
 - Temperature (°C)
